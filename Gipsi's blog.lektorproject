@@ -1,2 +1,4 @@
 [project]
 name = Gipsi's blog
+[servers.ghpages]
+target = ghpages+https://gipsi/blog
